@@ -1299,8 +1299,9 @@ body{
 
   /* HERO CONTENT */
   .hero-content{
+    height: 50vh;
     width:90%;
-    padding-top:100px;
+    padding-top:0px;
   }
 
   /* HEADING */
@@ -1359,7 +1360,7 @@ body{
     right:-100%;
 z-index: 5;
     width:280px;
-    height:50vh;
+    height:45vh;
 
     background:white;
 
